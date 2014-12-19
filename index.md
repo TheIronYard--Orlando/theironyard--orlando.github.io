@@ -17,8 +17,8 @@ Hello and welcome to The Iron Yard in Orlando, located in the Orlando Exchange a
 #### Current and Recent Cohorts
 
 * Front End Engineering with JavaScript -- [David Rogers](http://github.com/al-the-x)
-    * [Spring 2015](http://github.com/theironyard--orlando/fee--2015--spring) -- Jan - Mar 2015
-    * [Fall 2014](http://github.com/theironyard--orlando/fee--2014--fall) -- Sep - Dec 2014
+    * [Spring 2015 -- Jan - Mar 2015](http://github.com/theironyard--orlando/fee--2015--spring)
+    * [Fall 2014 -- Sep - Dec 2014](http://github.com/theironyard--orlando/fee--2014--fall)
 * Back End Engineering with Ruby-on-Rails -- [Brian Gates](http://github.com/bgates)
     * Brian, make your own links...
 * Mobile App Engineering with iOS -- Coming Soon!
