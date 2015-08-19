@@ -1,4 +1,5 @@
 ---
+permalink: index.html
 layout: default
 ---
 ### Welcome to [The Iron Yard](http://theironyard.com) family!
