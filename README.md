@@ -22,7 +22,8 @@ Hello and welcome to The Iron Yard in Orlando, located in the Orlando Exchange a
     * [Spring 2015 -- Jan - Mar 2015](http://github.com/theironyard--orlando/fee--2015--spring)
     * [Fall 2014 -- Sep - Dec 2014](http://github.com/theironyard--orlando/fee--2014--fall)
 * Back End Engineering with Ruby-on-Rails -- [Brian Gates](http://github.com/bgates)
-    * Brian, make your own links...
+    * [Summer 2015 -- May - Aug 2015](https://github.com/theironyard--orlando/2015--SUMMER--ROR)
+    * [Spring 2015 -- Jan - Mar 2015](http://github.com/theironyard--orlando/ROR--2015--SPRING)
 * Mobile Engineering with iOS -- [Ben Gohlke](http://github.com/jcgohlke)
    * [Fall 2015 -- Oct 2015 - Jan 2016](http://github.com/theironyard--orlando/2015--fall--ios)
    * [Summer 2015 -- Jun - Sep 2015](http://github.com/theironyard--orlando/2015--summer--ios)
